@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "strictNullChecks": true,
+    "target": "es2015",
+    "outDir": "./dist",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "sourceMap": false,
+    "rootDir": "src",
+    "strict": false,
+    "resolveJsonModule": true,
+    "allowSyntheticDefaultImports": true
+  },
+  "include": ["src"],
+  "exclude": ["node_modules", "dist"]
+}
